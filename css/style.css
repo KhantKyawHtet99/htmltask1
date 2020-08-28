@@ -73,6 +73,13 @@ ul.top_menu {
   display: block;
   padding: 2rem;
 }
+.contactb li a{
+  background-color: #fce9e9;
+  color: black;
+  text-decoration: none;
+  display: block;
+  padding: 2rem;
+}
 .banner img{
   width: 100%;
 }
